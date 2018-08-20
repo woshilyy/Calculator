@@ -1,4 +1,4 @@
-# 0406
+# 简易计算器
 
 > A Vue.js project
 
